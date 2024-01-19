@@ -1,56 +1,5 @@
+CODE STARTS FROM LINE 40
 //create two variables, firstCard and secondCard.
-//Set their values to a random number between 2-11
-
-//2.Create a variable, sum and set it to the sum of the two cards.
-
-
-//console.log(sum);
-// if(sum < 21){
-//   console.log('Do you want to draw new card?🙂');
-// }else if(sum === 21){
-//   console.log('Wohoo! You\'ve got Blackjack!🥳');
-// }else{
-//   console.log("You're out of the game!😭")
-// }
-
-
-//check if the person is old enough to enter the nightclub(21)
-//log a suitable message to the console in both cases
-
-// let age = 22
-//if less than 21 -> "You can enter the club!"
-// else           -> "Welcome!"
-
-// if(age <= 20){
-//   console.log('You can not enter the club!');
-// }else {
-//   console.log('Welcome!')
-// }
-
-//Check if the person is eligible for a brthday card from the king!
-
-// let age = 100;
-
-//if less than 100 -> "Not eligible"
-//if exacly 100    -> "Here is your birthday card from the king!"
-//else             -> "Not elegible, you have already gotten one"
-
-// if(age < 100)
-// {
-//   console.log("Not eligible");
-// }else if(age === 100){  ---> double equals checks condition if they are equal even if the data type is string. So in order to have 
-//   console.log('Here is your birthday card from the king!');
-// }else {
-//   console.log('Not elegible, you have already gotten one');
-// }
-//Write the conditional according to these rules"
-
-//if less than or equla to 20 ->"Do you want to draw a new card?"
-//else if exactly 21          -> "Wohoo! You've got Blackjack!"
-//else                        ->"You're out of the game!"
-
-//if we need to cashout for blackjack, by tracking the status we use boolean if true cashout or else continue playing.
-
 // let blackJack = false;
 // let isAlive = true;
 // if(sum <= 20){
